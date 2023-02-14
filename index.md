@@ -35,10 +35,10 @@ The current US disaster aid model assumes insurance companies should cover repai
 
 ## Code
 
-[Click me if you are curious about the code](https://github.com/5014NG3/ds4a_project_code)
+[Click me if you want to see the code](https://github.com/5014NG3/ds4a_project_code)
 
 
-## Data Sources
+### Data Sources
 
 *   [St. Louis Fed](https://fred.stlouisfed.org/categories/28461)
 *   [FEMA](https://www.fema.gov/openfema-data-page/individuals-and-households-program-valid-registrations-v1)
