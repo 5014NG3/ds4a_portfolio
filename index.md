@@ -7,8 +7,11 @@ layout: default
 
 The inspiration behind this project was to gain a deeper understanding of Hurricane Katrina and its impact on Louisiana. The team aimed to explore the role of FEMA in helping communities recover and rebuild in the aftermath of the disaster. During our research and analysis, we discovered that there were other forms of relief aid, such as the Road Home program, which provided assistance for rebuilding. Unfortunately, this data was not publicly available and we were unable to obtain it despite our requests. To gauge the condition of the various parishes, we looked at changes in income, home value, poverty, and demographics. We sourced the datasets for our analysis from FEMA, U.S. Census, Zillow, and the St. Louis Fed.
 
+# Impact 
 
-# Contributions
+The current US disaster aid model assumes insurance companies should cover repair costs for homeowners and businesses, while FEMA provides aid in the form of grants for temporary housing and serious disaster-related expenses. Our analysis aims to examine the correlation between FEMA aid and community recovery and make recommendations to improve the current aid model if needed for more equitable distribution of aid.
+
+## Contributions
 
 *   <ins>Data sourcing</ins>: created a simple web scraper for downloading various csv files from sources such as zillow.com and census.gov
 *   <ins>Data cleaning</ins>: used pandas to combine multiple csv files into one, filtering for data related to Louisiana, and pivoting or melting data into a cohesive data frame for our analysis.
@@ -16,14 +19,14 @@ The inspiration behind this project was to gain a deeper understanding of Hurric
 *   <ins>Tableau dashboard</ins>: assisted in designing the layout and built an action that allows the user to click on the map of Louisiana and get specific information about a parish.
 *   <ins>Meetings</ins>: We held weekly meetings to discuss recent findings and updates on our share of the project. I had the opportunity to facilitate several meetings and create agendas to guide the discussions towards areas that I thought needed more attention. 
 
-# Project Presentation
+## Project Presentation
 
 <video width="640" height="480" controls>
   <source src="video/pres.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-# Dashboard
+## Dashboard
 
 > Click on the dashboard to try it out
 
