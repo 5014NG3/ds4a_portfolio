@@ -25,8 +25,8 @@ The inspiration behind this project was to gain a deeper understanding of Hurric
 
 # Project Presentation
 
-<video width="320" height="240" controls>
-  <source src="ds4a_portfolio/video/pres.mp4" type="video/mp4">
+<video width="640" height="480" controls>
+  <source src="video/pres.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
