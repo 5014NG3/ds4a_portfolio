@@ -26,7 +26,7 @@ The inspiration behind this project was to gain a deeper understanding of Hurric
 # Project Presentation
 
 <video width="320" height="240" controls>
-  <source src="/video/submission-128767__Team 55 Video presentation.mp4" type="video/mp4">
+  <source src="/video/pres.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
