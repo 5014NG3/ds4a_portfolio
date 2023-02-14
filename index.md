@@ -17,11 +17,11 @@ The inspiration behind this project was to gain a deeper understanding of Hurric
 
 # Contributions
 
-*   Data sourcing: created a simple web scraper for downloading various csv files from sources such as zillow.com and census.gov
-*   Data cleaning: used pandas to combine multiple csv files into one, filtering for data related to Louisiana, and pivoting or melting data into a cohesive data frame for our analysis.
-*   Visualizations: used Matplotlib, Seaborn, and pandas to create line charts, stacked bar charts, box plots, and pie charts during our exploratory data analysis stage.
-*   Tableau dashboard: assisted in designing the layout and built an action that allows the user to click on the map of Louisiana and get specific information about a parish.
-*   Meetings: We held weekly meetings to discuss recent findings and updates on our share of the project. I had the opportunity to facilitate several meetings and create agendas to guide the discussions towards areas that I thought needed more attention. 
+*   <ins>Data sourcing</ins>: created a simple web scraper for downloading various csv files from sources such as zillow.com and census.gov
+*   <ins>Data cleaning</ins>: used pandas to combine multiple csv files into one, filtering for data related to Louisiana, and pivoting or melting data into a cohesive data frame for our analysis.
+*   <ins>Visualizations</ins>: used Matplotlib, Seaborn, and pandas to create line charts, stacked bar charts, box plots, and pie charts during our exploratory data analysis stage.
+*   <ins>Tableau dashboard</ins>: assisted in designing the layout and built an action that allows the user to click on the map of Louisiana and get specific information about a parish.
+*   <ins>Meetings</ins>: We held weekly meetings to discuss recent findings and updates on our share of the project. I had the opportunity to facilitate several meetings and create agendas to guide the discussions towards areas that I thought needed more attention. 
 
 ##### Header 5
 
