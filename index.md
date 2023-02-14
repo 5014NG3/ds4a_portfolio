@@ -11,7 +11,7 @@ The inspiration behind this project was to gain a deeper understanding of Hurric
 
 The current US disaster aid model assumes insurance companies should cover repair costs for homeowners and businesses, while FEMA provides aid in the form of grants for temporary housing and serious disaster-related expenses. Our analysis aims to examine the correlation between FEMA aid and community recovery and make recommendations to improve the current aid model if needed for more equitable distribution of aid.
 
-## Contributions
+## My contributions
 
 *   <ins>Data sourcing</ins>: created a simple web scraper for downloading various csv files from sources such as zillow.com and census.gov
 *   <ins>Data cleaning</ins>: used pandas to combine multiple csv files into one, filtering for data related to Louisiana, and pivoting or melting data into a cohesive data frame for our analysis.
@@ -32,5 +32,19 @@ The current US disaster aid model assumes insurance companies should cover repai
 
 [![Dashboard Image](video/db.png)](https://public.tableau.com/app/profile/ds4a.e4.team.55/viz/TeamDashboard_filter_version/Afterthehurricane)
 
+
+## Code
+
+[Click me if you are curious about the code](https://github.com/5014NG3/ds4a_project_code)
+
+
+## Data Sources
+
+*   [St. Louis Fed](https://fred.stlouisfed.org/categories/28461)
+*   [FEMA](https://www.fema.gov/openfema-data-page/individuals-and-households-program-valid-registrations-v1)
+*   [Zillow](https://www.zillow.com/research/data/)
+*   [Census Population](https://www2.census.gov/programs-surveys/popest/datasets/)
+*   [Census Demographics 2000-2010](https://www2.census.gov/programs-surveys/popest/datasets/2000-2010/intercensal/county/)
+*   [Census Demographics 2010-2020](https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/)
 
 
